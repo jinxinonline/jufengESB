@@ -10,3 +10,5 @@ jufengESB
 应用技术：springMVC+mybatis。
 
 技术理念：开放、高效、敏捷
+
+学习使用github
